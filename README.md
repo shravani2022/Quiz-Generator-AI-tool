@@ -16,6 +16,8 @@ This application allows users to upload educational content (images or PDFs) or 
 - **Responsive Design**: Works on desktop and mobile devices
 
 
+
+
 ## Folder Structure
 
 ```plaintext
